@@ -1,0 +1,29 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "Training bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24694Blen/LOTR.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "lotr"
+  ],
+  "author": "Blen Michil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/24694Blen/LOTR/issues"
+  },
+  "homepage": "https://github.com/24694Blen/LOTR#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
